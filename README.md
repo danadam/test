@@ -1,9 +1,11 @@
 *Table fo Contents*
 
+<div id="user-content-toc">
 * [Intro](#intro)
 * [Header with space](#header-with-space)
     * [Subheader](#subheader)
 * [Another header](#another-header)
+</div>
 
 # Intro
 
