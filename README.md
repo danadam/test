@@ -1,6 +1,9 @@
-##### Table fo Contents
-[Intro](#intro)
-[Header with space](#header-with-space)
+*Table fo Contents*
+
+* [Intro](#intro)
+* [Header with space](#header-with-space)
+    * [Subheader](#subheader)
+* [Another header](#another-header)
 
 # Intro
 
@@ -70,6 +73,8 @@ Hello.
 
 Hello.
 
+## Subheader
+
 Hello.
 
 Hello.
@@ -91,6 +96,7 @@ Hello.
 Hello.
 
 # Another header
+
 
 Hello.
 
