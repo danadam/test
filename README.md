@@ -5,6 +5,7 @@
 * [Intro](#intro)
 * [Header with space](#header-with-space)
     * [Subheader](#subheader)
+* [Header with.dot](#header-with.dot)
 * [Another header](#another-header)
 
 </div>
@@ -98,6 +99,10 @@ Hello.
 Hello.
 
 Hello.
+
+# Header with.dot
+
+Hello
 
 # Another header
 
